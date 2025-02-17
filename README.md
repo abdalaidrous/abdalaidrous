@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Abdullah Al-Aidrous!  
 
-👨‍💻 **Software Developer** | 💾 **IT Enthusiast**  
+👨‍💻 **Software Developer** | 💾  **Tech Enthusiast**  
 
 With over **8 years of experience**, I specialize in **backend, frontend, and DevOps** technologies, building scalable and efficient solutions. I am passionate about writing **clean, maintainable code** and continuously learning to stay ahead in the ever-evolving tech world. 🚀  
 
